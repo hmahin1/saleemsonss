@@ -10,10 +10,10 @@
         <link rel="stylesheet" href="css/icon-font.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="shortcut icon" type="image/png" href="img/zx.png">
-        
+
         <title>S&S</title>
     </head>
-    
+
     <body>
 
         <header class="header">
@@ -35,18 +35,17 @@
             <section class="section-about">
                 <div class="u-center-text u-margin-bottom-big">
                     <h2 class="heading-secondary">
-                        SALEEM & SON'S PRODUCTS
+                        SALEEM & SON'S
                     </h2>
                 </div>
 
                 <div class="row">
                     <div class="col-1-of-2">
-                        <h3 class="heading-tertiary u-margin-bottom-small">You're going to love our products</h3>
+                        <h3 class="heading-tertiary u-margin-bottom-small">ABOUT US</h3>
                         <p class="paragraph">
-                            All kinds of Nozzles, Injectors and Fuel Pumps Parts      .
+                            Saleem & Son's is a family busniess founded in October 2016. Saleem & Son's deals in all kinds of Nozzles, Injectors, and Fuel Injection Pump Parts.  Saleem & Son's adheres to its core concept of Reliability In Action to deliver ever more dependable products and services to a global customer base that continues to enjoy a sustained return on its investment.       .
                         </p>
-
-                        <h3 class="heading-tertiary u-margin-bottom-small">Buy our product without any hesitation</h3>
+                        <h3 class="heading-tertiary u-margin-bottom-small">Buy our product right now</h3>
                         <p class="paragraph">
                             Get your all Genrators light and Heavy Vehicles parts Right Now  .
                         </p>
@@ -63,7 +62,7 @@
             </section>
 
             <section class="section-features">
-                
+
                 <div class="col">
                     <div class="col-1-of-2">
                         <div class="feature-box">
